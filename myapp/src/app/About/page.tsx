@@ -7,6 +7,7 @@ export default function About() {
       <Header />
       <main className="p-6">
         <h2 className={styles}>Миний тухай</h2>
+        <p>Мин</p>
         <p>Next.js ашиглаж байна.</p>
       </main>
       <Footer />
