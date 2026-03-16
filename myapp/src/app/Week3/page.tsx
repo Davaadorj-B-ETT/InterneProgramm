@@ -15,5 +15,6 @@ export default function page() {
             <br />
             <CustomButton text ="register" width={120} height={60} />
         </div>
+        
     )
 }
